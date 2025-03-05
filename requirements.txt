@@ -795,7 +795,7 @@ pyyaml==6.0.1 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0
 querystring-parser==1.2.4 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
     --hash=sha256:644fce1cffe0530453b43a83a38094dbe422ccba8c9b2f2a1c00280e14ca8a62 \
     --hash=sha256:d2fa90765eaf0de96c8b087872991a10238e89ba015ae59fedfed6bd61c242a0
-rdflib==7.0.0 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
+rdflib==6.0.0 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
     --hash=sha256:0438920912a642c866a513de6fe8a0001bd86ef975057d6962c79ce4771687cd \
     --hash=sha256:9995eb8569428059b8c1affd26b25eac510d64f5043d9ce8c84e0d0036e995ae
 requests==2.31.0 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
