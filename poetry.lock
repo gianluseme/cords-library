@@ -282,7 +282,7 @@ files = [
 ]
 
 [package.dependencies]
-numpy = ">=1.16"
+numpy = ">=1.21"
 
 [package.extras]
 bokeh = ["bokeh", "selenium"]
