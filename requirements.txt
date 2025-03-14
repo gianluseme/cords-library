@@ -536,10 +536,10 @@ matplotlib==3.7.5 ; python_full_version >= "3.8.10" and python_full_version < "4
     --hash=sha256:fbf730fca3e1f23713bc1fae0a57db386e39dc81ea57dc305c67f628c1d7a342 \
     --hash=sha256:fd4028d570fa4b31b7b165d4a685942ae9cdc669f33741e388c01857d9723eab \
     --hash=sha256:fe184b4625b4052fa88ef350b815559dd90cc6cc8e97b62f966e1ca84074aafa
-mlflow==2.12.1 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
+mlflow==1.23.1 ; python_full_version >= "3.6" and python_full_version < "4.0.0" \
     --hash=sha256:4c8f631df7ceea75c53464c976f3fef5bd0f80fc4ba5e871f3416d8c139a0312 \
     --hash=sha256:aa92aebb2379a9c5484cbe901cdf779d5408ac96a641e4b1f8a2d1ff974db7c9
-numpy==1.19.5 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
+numpy==1.19.5 ; python_full_version >= "3.6" and python_full_version < "4.0.0" \
     --hash=sha256:04640dab83f7c6c85abf9cd729c5b65f1ebd0ccf9de90b270cd61935eef0197f \
     --hash=sha256:1452241c290f3e2a312c137a9999cdbf63f78864d63c79039bda65ee86943f61 \
     --hash=sha256:222e40d0e2548690405b0b3c7b21d1169117391c2e82c378467ef9ab4c8f0da7 \
@@ -795,7 +795,7 @@ pyyaml==6.0.1 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0
 querystring-parser==1.2.4 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
     --hash=sha256:644fce1cffe0530453b43a83a38094dbe422ccba8c9b2f2a1c00280e14ca8a62 \
     --hash=sha256:d2fa90765eaf0de96c8b087872991a10238e89ba015ae59fedfed6bd61c242a0
-rdflib==6.0.0 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
+rdflib==5.0.0 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \
     --hash=sha256:0438920912a642c866a513de6fe8a0001bd86ef975057d6962c79ce4771687cd \
     --hash=sha256:9995eb8569428059b8c1affd26b25eac510d64f5043d9ce8c84e0d0036e995ae
 requests==2.31.0 ; python_full_version >= "3.8.10" and python_full_version < "4.0.0" \

@@ -7,9 +7,9 @@ readme = "README.md"
 include = ["cords_semantics/data/*.rdf"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
-rdflib = "^6.0.0"
-mlflow = "^2.12.1"
+python = "^3.6"
+rdflib = "==5.0.0"
+mlflow = "^1.23.1"
 numpy = ">=1.19.5"
 
 
